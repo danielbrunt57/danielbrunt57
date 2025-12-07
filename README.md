@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there! 👋
+
+- 🔭 I’m currently working on ...
+- 📫 How to reach me: ...
 
 <!--
 **danielbrunt57/danielbrunt57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="buymeacoffee.com/zdbtnhcyz" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
