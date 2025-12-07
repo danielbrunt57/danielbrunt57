@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="buymeacoffee.com/zdbtnhcyz" target="_blank">
+<a href="https://buymeacoffee.com/zdbtnhcyz" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
 </a>
